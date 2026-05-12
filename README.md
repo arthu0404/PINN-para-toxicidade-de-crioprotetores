@@ -74,6 +74,7 @@ k.
 [9] PYTORCH. L1Loss. PyTorch 2.11 Documentation, [s.d.]. Disponível em: https://docs.pytorch.org/docs/2.11/generated/torch.nn.L1Loss.html. Acesso em: 11 maio. 2026.
 
 [10] PYTORCH. HuberLoss. PyTorch 2.12 Documentation, [s.d.]. Disponível em: https://docs.pytorch.org/docs/2.12/generated/torch.nn.HuberLoss.html. Acesso em: 11 maio. 2026.
+
 ---
 
 **Autor**: Arthur Brandão do Nascimento
