@@ -38,7 +38,7 @@ Este projeto substitui a regressão clássica por uma PINN que resolve o mesmo p
 ```
 .
 ├── Academico.ipynb               # Notebook principal: PINN e comparação de resultados
-├── extracao_dados_xls.ipynb      # Conversão dos CSVs brutos para formato tidy
+├── extracao_dados_brutos.ipynb   # Conversão dos CSVs brutos para formato adequado
 ├── calculo_k_artigo.ipynb        # Cálculo dos k de referência pelo modelo de Warner et al.
 ├── dados/
 │   ├── Single-and-Binary-Data-Report.csv
