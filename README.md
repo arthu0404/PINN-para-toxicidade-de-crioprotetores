@@ -15,7 +15,7 @@ Este projeto aplica uma **Physics-Informed Neural Network (PINN)** ao problema i
 
    - Os dados experimentais de viabilidade celular provêm dos arquivos suplementares de Warner et al. (2022), disponibilizados como planilhas `.csv`.
    - Coloque os arquivos `Single-and-Binary-Data-Report.csv` e `Ternary-Data-Report.csv` na pasta `./dados`.
-   - Execute primeiro o notebook `extracao_dados_xls.ipynb` para converter os arquivos para o formato tidy (`dados_simples_e_binarios.csv` e `dados_ternarios.csv`).
+   - Execute primeiro o notebook `extracao_dados_xls.ipynb` para converter os arquivos para o formato adequado (`dados_simples_e_binarios.csv` e `dados_ternarios.csv`).
    - Em seguida, execute `calculo_k_artigo.ipynb` para calcular os valores de referência `resultados_k_artigo.csv`.
 
 3. **Execução**:
