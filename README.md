@@ -54,18 +54,26 @@ A PINN produziu menor RMSE em **71 das 87 composições avaliadas (81,6%)**, com
 
 ## **Referências**
 
-[1] RAISSI, M.; PERDIKARIS, P.; KARNIADAKIS, G. E. Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. **Journal of Computational Physics**, v. 378, p. 686–707, 2019.
+[1] Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. Journal of Computational Physics, 378, 686–707.
 
-[2] WARNER, R. M. et al. Rapid Quantification of Cryoprotectant Permeability via Numerical Optimization of Differential Scanning Calorimetry Thermograms. **Cryobiology**, 2022. DOI: 10.1016.
+[2] Warner, R. M., et al. (2022). Rapid Quantification of Cryoprotectant Permeability via Numerical Optimization of Differential Scanning Calorimetry Thermograms. Cryobiology. DOI: 10.1016.
 
-[3] PRADHAN, R. **The Math Behind Adam Optimizer**. Towards Data Science, 2018. Disponível em: https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b/. Acesso em: 11 maio 2026.
+[3] CARVALHO, João Cláudio Nunes. O que é uma Physics-Informed Neural Network (PINN)? Medium, 9 ago. 2025. Disponível em: https://joaoclaudionc.medium.com/o-que-%C3%A9-uma-physics-informed-neural-network-pinn-3d0d466693f9. Acesso em: 11 maio. 2026.
 
-[4] MULTILAYER perceptron. In: WIKIPEDIA: the free encyclopedia. Wikimedia Foundation, 2024. Disponível em: https://en.wikipedia.org/wiki/Multilayer_perceptron. Acesso em: 11 maio 2026.
+[4] PRADHAN, R. The Math Behind Adam Optimizer. Towards Data Science, 2018. Disponível em: https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b/. Acesso em: 11 maio. 2026.
 
-[5] CASSAR, Daniel Roberto. **Multilayer Perceptron em Python puro**. [Jupyter Notebook], Ilum – Escola de Ciência, Campinas, 2026.
+[5] MULTILAYER perceptron. In: WIKIPEDIA: the free encyclopedia. [S. l.]: Wikimedia Foundation, 2024. Disponível em: https://en.wikipedia.org/wiki/Multilayer_perceptron. Acesso em: 11 maio. 2026.
 
-[6] CASSAR, Daniel Roberto. **Construindo e treinando redes neurais com PyTorch e Lightning**. [Jupyter Notebook], Ilum – Escola de Ciência, Campinas, 2026.
+[6] CASSAR, Daniel Roberto. Multilayer Perceptron em Python puro. [Jupyter Notebook], Ilum – Escola de Ciência, Campinas, 2026.
 
+[7] CASSAR, Daniel Roberto. Construindo e treinando redes neurais com PyTorch e Lightning. [Jupyter Notebook], Ilum – Escola de Ciência, Campinas, 2026.
+k.
+
+[8] PYTORCH. MSELoss. PyTorch 2.11 Documentation, [s.d.]. Disponível em: https://docs.pytorch.org/docs/2.11/generated/torch.nn.MSELoss.html. Acesso em: 11 maio. 2026.
+
+[9] PYTORCH. L1Loss. PyTorch 2.11 Documentation, [s.d.]. Disponível em: https://docs.pytorch.org/docs/2.11/generated/torch.nn.L1Loss.html. Acesso em: 11 maio. 2026.
+
+[10] PYTORCH. HuberLoss. PyTorch 2.12 Documentation, [s.d.]. Disponível em: https://docs.pytorch.org/docs/2.12/generated/torch.nn.HuberLoss.html. Acesso em: 11 maio. 2026.
 ---
 
 **Autor**: Arthur Brandão do Nascimento
